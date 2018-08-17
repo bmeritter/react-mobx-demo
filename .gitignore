@@ -5,6 +5,8 @@
 
 .idea
 .idea/vcs.xml
+config
+scripts
 
 # testing
 /coverage
